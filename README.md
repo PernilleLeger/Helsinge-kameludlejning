@@ -6,7 +6,7 @@ Mainsiden indeholder en menubar, billeder efter tema og placeres i toppen af sid
 
 Menubaren indeholder: 
 Oplysninger (priser) - 
-Åbeningstider - 
+Åbningstider - 
 Omtale - 
 Kontakt - kørevejledning
 Online tilmeldning
